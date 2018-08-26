@@ -25,6 +25,7 @@ namespace FileHandling {
             //} catch (FileNotFoundException e) {
             //    Console.WriteLine(e.Message);
             //}
+
             if (File.Exists(path)) {
                 using (StreamReader sr = new StreamReader(path)) {
                     while (sr.EndOfStream != true) {
