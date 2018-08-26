@@ -1,0 +1,7 @@
+C:\Users\Chris\Documents\Projects\C#\OOP\OOP\obj\Debug\OOP.csprojResolveAssemblyReference.cache
+C:\Users\Chris\Documents\Projects\C#\OOP\OOP\obj\Debug\OOP.csproj.CoreCompileInputs.cache
+C:\Users\Chris\Documents\Projects\C#\OOP\OOP\bin\Debug\OOP.exe.config
+C:\Users\Chris\Documents\Projects\C#\OOP\OOP\bin\Debug\OOP.exe
+C:\Users\Chris\Documents\Projects\C#\OOP\OOP\bin\Debug\OOP.pdb
+C:\Users\Chris\Documents\Projects\C#\OOP\OOP\obj\Debug\OOP.exe
+C:\Users\Chris\Documents\Projects\C#\OOP\OOP\obj\Debug\OOP.pdb
